@@ -1,0 +1,7 @@
+C:\Users\stefa\OneDrive\Desktop\WSMBT_KeyGen\WSMBT_KeyGen\bin\Debug\WSMBT_KeyGen.exe
+C:\Users\stefa\OneDrive\Desktop\WSMBT_KeyGen\WSMBT_KeyGen\bin\Debug\WSMBT_KeyGen.pdb
+C:\Users\stefa\OneDrive\Desktop\WSMBT_KeyGen\WSMBT_KeyGen\obj\Debug\WSMBT_KeyGen.csproj.AssemblyReference.cache
+C:\Users\stefa\OneDrive\Desktop\WSMBT_KeyGen\WSMBT_KeyGen\obj\Debug\WSMBT_KeyGen.csproj.SuggestedBindingRedirects.cache
+C:\Users\stefa\OneDrive\Desktop\WSMBT_KeyGen\WSMBT_KeyGen\obj\Debug\WSMBT_KeyGen.csproj.CoreCompileInputs.cache
+C:\Users\stefa\OneDrive\Desktop\WSMBT_KeyGen\WSMBT_KeyGen\obj\Debug\WSMBT_KeyGen.exe
+C:\Users\stefa\OneDrive\Desktop\WSMBT_KeyGen\WSMBT_KeyGen\obj\Debug\WSMBT_KeyGen.pdb
