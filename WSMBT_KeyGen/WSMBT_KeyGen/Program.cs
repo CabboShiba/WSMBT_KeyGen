@@ -10,7 +10,7 @@ namespace WSMBT_KeyGen
         public static void Main(string[] args)
         {
 	        Console.Title = $"[{DateTime.Now}] WSMBT_KeyGen by https://github.com/CabboShiba - https://t.me/CabboShiba";
-	        Log("How many License do you want to generated?", "CONFIG", ConsoleColor.Cyan);
+	        Log("How many License do you want to generate?", "CONFIG", ConsoleColor.Cyan);
 	        int License = int.Parse(Console.ReadLine());
 	        string LicenseGenerated = null;
 	        for (int i = 0; i < License; i++)
